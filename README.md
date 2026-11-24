@@ -1,5 +1,7 @@
 # Hi, I'm Nour Aldin
 
+I'm a developer building Python web apps and ESP32 hardware projects with tests and documentation. I work with AI tools and review, test and debug the output, and I use Python for data and workflow automation.
+
 I build Python web applications, ESP32 projects, and automation tools. I use AI to speed up development while reviewing the code and documenting its limits.
 
 ## Selected projects
