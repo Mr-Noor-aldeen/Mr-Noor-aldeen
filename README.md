@@ -8,6 +8,7 @@ I build Python web applications, ESP32 projects, and automation tools. I use AI 
 
 - Arabic Quiz System: a FastAPI and SQLite quiz application with an Arabic interface and pytest tests.
 - ESP32 Radar Robot: an ESP32 robot with browser controls, ultrasonic scanning, and obstacle-avoidance logic.
+- ShadowRoot Navigator: a Selenium-based tool that traverses nested Shadow DOM trees and integrates LLM APIs with fallback, built as an automation prototype (https://github.com/Mr-Noor-aldeen/shadowroot-navigator).
 
 ## Technologies used in my projects
 
